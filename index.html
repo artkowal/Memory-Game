@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="shortcut icon" href="./assets/game.png">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inria+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet"> 
+
+    <title>Memory Game</title>
+</head>
+<body>
+    <div class="container">
+        <div class="title">
+            <h1 class="titleText">MEMORY <span class="redWord">GAME</span></h1>
+        </div>
+
+        <div class="resultOverlay hidden">
+            <div class="resultBox">
+                <h1>🏆 WYGRAŁEŚ 🏆</h1>
+                <p>⏱️ Twój czas: <span id="gameTime"></span> sekund</p>
+                <p>🔄 Liczba ruchów: <span id="gameMoves"></span></p>
+                <button class="restartButton">Zagraj ponownie</button>
+            </div>
+        </div>
+        
+            <div class="game">
+                <div class="card"></div>
+                <div class="card"></div>
+                <div class="card"></div>
+                <div class="card"></div>
+                <div class="card"></div>
+                <div class="card"></div>
+                <div class="card"></div>
+                <div class="card"></div>
+                <div class="card"></div>
+                <div class="card"></div>
+                <div class="card"></div>
+                <div class="card"></div>
+                <div class="card"></div>
+                <div class="card"></div>
+                <div class="card"></div>
+                <div class="card"></div>
+                <div class="card"></div>
+                <div class="card"></div>
+            </div>
+
+        <div class="navigation">
+            <button class="startButton">Start</button>
+        </div>
+    </div>
+
+    <script src="./js/script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
+
+</body>
+</html>
