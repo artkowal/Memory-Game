@@ -12,11 +12,14 @@
 **Gameplay preview**
 
 Web browser
+
 ![Zrzut ekranu 2025-01-17 o 22 35 16](https://github.com/user-attachments/assets/b30270df-05f0-4f6d-9815-13923f688fbc)
 ![Zrzut ekranu 2025-01-17 o 22 36 09](https://github.com/user-attachments/assets/5c6b4ac9-0287-4a82-89fc-04ced54a1998)
 
 Mobile devices
-![Zrzut ekranu 2025-01-17 o 22 37 44](https://github.com/user-attachments/assets/1f6592bb-ad24-4b31-89b3-b3b16f2de029) ![Zrzut ekranu 2025-01-17 o 22 38 19](https://github.com/user-attachments/assets/f8f8b73d-8e47-4a42-bf2c-401adc160201)
+
+![Zrzut ekranu 2025-01-17 o 22 37 44](https://github.com/user-attachments/assets/1f6592bb-ad24-4b31-89b3-b3b16f2de029) 
+![Zrzut ekranu 2025-01-17 o 22 38 19](https://github.com/user-attachments/assets/f8f8b73d-8e47-4a42-bf2c-401adc160201)
 
 **Game Rules**
 
